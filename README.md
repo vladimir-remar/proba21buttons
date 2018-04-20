@@ -32,14 +32,17 @@ Bitbucket,...)
 
 Prenent com a base el [tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html) de scrapy,
 vaig desenvolupar un petit [script](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/vladimir-test.py),
-con el que poder extraer informacion de un producto.
+amb el qual poder extreure informació d'un producte.
 
-## Durada
+## Planing 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Estructuració                           | Temps empreat  
+| --------------------------------------  |:-------------:|
+| Seguiment Tutorial                      | 2h            |
+| Plantejament i test  extens amb scrapy  | 2h            |
+| Coding                                  | 2h            |
+| Debugging                               | 30min         |
+| Resultats                               | --         |
+
 
 ## Execució
