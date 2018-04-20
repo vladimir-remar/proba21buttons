@@ -1,0 +1,53 @@
+[{"name": "Sudadera USA", "price": "19.95", "image_urls": 
+["https://naturalbylila.com/wp-content/uploads/2018/04/P1044153-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1044187-500x750.jpg"], 
+"title1": "C\u00e1rdigans y jerseis", "colors": 
+["{\"name\":\"Blanco\"}", "{\"name\":\"Marino\"}"], "description": 
+"Sudadera USA. Talla \u00fanica."}]
+
+[{"name": "Top Bimba", "price": "14.95", "image_urls": 
+["https://naturalbylila.com/wp-content/uploads/2018/04/P1111119-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111425-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/preventa1-500x749.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111136-500x888.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111096-e1523973434185-500x728.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111112-e1524074972580-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111427-500x750.jpg"], 
+"title1": "New Arrivals", "colors": ["{\"name\":\"Rojo\"}", 
+"{\"name\":\"Negro\"}", "{\"name\":\"Blanco\"}", 
+"{\"name\":\"Rosa\"}"], "description": "Cropped top. Talla \u00fanica."}]
+
+
+//problema amb els links no agafa el scheme https y amb la descripcio
+// agafo text de mes.
+[{"price": "65.99", "name": "PRE-ORDER Candice", "image_urls": 
+["//cdn.shopify.com/s/files/1/2354/4669/products/web_JESSICA_4_110x110@2x.jpg?v=1515591434", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/web_JESSICA_1_110x110@2x.jpg?v=1515591434", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/web_JESSICA_7_110x110@2x.jpg?v=1515591434", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/web_JESSICA_8_110x110@2x.jpg?v=1515591434"], 
+"description": "NO SE ADMITIRAN CAMBIOS NI DEVOLUCIONES EN ESTE  ART\u00cdCULO.\u00a0\nEl cintur\u00f3n no est\u00e1 inclu\u00eddo.\u00a0\nSe entregar\u00e1 15 d\u00edas despu\u00e9s de realizar el pedido.\u00a0\u00a0\n\u00a0\nLas medidas indicadas en la gu\u00eda de tallas se refieren a las medidas del cuerpo y no de las prendas.\nTodas las medidas son aproximadas."}]
+
+[{"price": "39.99", "name": "Pantal\u00f3n Winona", "image_urls": 
+["//cdn.shopify.com/s/files/1/2354/4669/products/DSC_8195_110x110@2x.JPG?v=1516218144", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/DSC_8203_110x110@2x.JPG?v=1516218144", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/IMG_0331_110x110@2x.JPG?v=1516218144"], 
+"description": "Pantal\u00f3n jogger\u00a0con pinzas mostaza\nAltura de la modelo 167 cm. Lleva una talla XS.\u00a0\n65% poli\u00e9ster\u00a0 32% viscosa 3% elastano\nLas medidas indicadas en la gu\u00eda de tallas se refieren a las medidas del cuerpo y no de las prendas.\nTodas las medidas son aproximadas."}]
+
+[{"price": "42.99", "name": "Pantal\u00f3n Jenna", "image_urls": 
+["//cdn.shopify.com/s/files/1/2354/4669/products/4D34F624-3BAB-48A0-A029-CE311778750B_110x110@2x.JPG?v=1522343037", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/7FBC70CE-55D0-4518-A18A-083F7A6E63E9_110x110@2x.JPG?v=1522343037", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/DSC_0334_110x110@2x.JPG?v=1522343037", 
+"//cdn.shopify.com/s/files/1/2354/4669/products/DSC_0339_110x110@2x.JPG?v=1522343037"], 
+"description": "Pantal\u00f3n tiro alto de rayas pitillo con bolsillos.\nAltura de la modelo 167 cm. Lleva una talla XS.\u00a0\n98% poli\u00e9ster 2% elastano\nLas medidas indicadas en la gu\u00eda de tallas se refieren a las medidas del cuerpo y no de las prendas.\nTodas las medidas son aproximadas."}]
+
+//Lista de colors vuida
+[{"name": "Bikini Cancun", "price": "25.99", "image_urls": 
+["https://naturalbylila.com/wp-content/uploads/2016/07/IMG_8666-e1519913368585-500x750.jpg"], 
+"title1": "Bikinis", "colors": [], "description": "Bikini Cancun. Talla \u00fanica."}]
+
+[{"name": "Top Gia", "price": "21.95", "image_urls": 
+["https://naturalbylila.com/wp-content/uploads/2018/04/P1111632-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111629-500x750.jpg", 
+"https://naturalbylila.com/wp-content/uploads/2018/04/P1111765-500x750.jpg"], 
+"title1": "New Arrivals", "colors": ["{\"name\":\"Blanco\"}", 
+"{\"name\":\"Negro\"}"], "description": "Top Gia. Top crochet con estampado floral con manga acampanada y con goma en el pecho. Talla \u00fanica."}]

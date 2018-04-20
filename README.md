@@ -31,7 +31,7 @@ Bitbucket,...)
 ## Desenvolupament
 
 Prenent com a base el [tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html) de scrapy,
-vaig desenvolupar un petit [script](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/vladimir-test.py),
+vaig desenvolupar amb *python 2* un petit [script](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/vladimir-test.py),
 amb el qual poder extreure informació d'un producte.
 
 ## Planing 
@@ -42,7 +42,23 @@ amb el qual poder extreure informació d'un producte.
 | Plantejament i test  extens amb scrapy  | 2h            |
 | Coding                                  | 2h            |
 | Debugging                               | 30min         |
-| Resultats                               | --         |
+| Resultats                               | --            |
 
 
 ## Execució
+
+### Amb un producte d'alguna de les pàgines web
+
+    python vladimir-test.py -l https://naturalbylila.com/producto/bolso-malaga/
+
+### Per obtenir diversos resultats amb un [script](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/tests.sh) de bash
+    
+    bash tests.sh
+    
+### Sortida
+
+La sortida generada és un fitxer .json amb la resposta de totes les consultes
+
+## Extres
+
+Com a extra he deixat els 2 projectes i els seus respectius resultats
