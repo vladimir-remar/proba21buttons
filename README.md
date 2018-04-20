@@ -34,13 +34,15 @@ Prenent com a base el [tutorial](https://doc.scrapy.org/en/latest/intro/tutorial
 vaig desenvolupar amb *python 2* un petit [script](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/vladimir-test.py),
 amb el qual poder extreure informació d'un producte.
 
+
+
 ## Planing 
 
 | Estructuració                           | Temps empreat  
 | --------------------------------------  |:-------------:|
 | Seguiment Tutorial                      | 2h            |
 | Plantejament i test  extens amb scrapy  | 2h            |
-| Coding                                  | 2h            |
+| Coding                                  | 2:30h         |
 | Debugging                               | 30min         |
 | Resultats                               | --            |
 
@@ -58,7 +60,20 @@ amb el qual poder extreure informació d'un producte.
 ### Sortida
 
 La sortida generada és un fitxer .json amb la resposta de totes les consultes
-
+En el meu cas [sortida](https://github.com/vladimir-remar/proba21buttons/blob/master/Vladimir_scripts/result.json)
 ## Extres
 
 Com a extra he deixat els 2 projectes i els seus respectius resultats
+
+## Conclusions
+
+Expect the Unexpected, ha estat força revelador com poder tractar les 
+dades d'una pàgina web més enllà de veure el propi contingut. L'eina 
+*scrapy* ha estat com obrir un nou horitzó. La meva curta experiència 
+amb ella, més enllà de picar codi ha estat de complet enriquiment.
+
+Puc dir que la meva aventurra amb *scrapy* acaba de començar.
+
+## Referències
+
+[Scrapy Docs](https://doc.scrapy.org/en/latest/index.html)
